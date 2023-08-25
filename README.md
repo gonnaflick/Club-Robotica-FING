@@ -21,11 +21,11 @@
 
 <p align="center"><a href="https://day8.github.io/re-frame" target="_blank" rel="noopener noreferrer"><img src="./assets/event_megabots.jpg" alt="event_megabots.jpg"></a></p>
 
-## Bienvenido al Club de Robotica
+## 👋 Bienvenido al Club de Robotica
 
 Este repositorio contiene información, materiales y registros del Club de Robótica de la Universidad Autonoma de Chihuahua semestre **Agosto - Diciembre 2023**.
 
-## Liderazgo del Club
+## 🎖️ Liderazgo del Club
 
 - **Encargado del Club y Laboratorio de Automatica:** Ing. Jesús Manuel Muñoz Larguero
 - **Presidente del Club:** Jesús Alejandro Jiménez Hernández
