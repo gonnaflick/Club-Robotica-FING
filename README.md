@@ -76,9 +76,6 @@ Las siguientes fechas son tentativas y no finales, esto debido a que muchos alum
 
 ### 👥 Miembros del Club
 
-> **Note**
-> Los miembros del club deberan llenar esta seccion con sus datos (Nombre - Matricula - Direccion a su cuenta de GitHub).
-
 > [!NOTE]  
 > Los miembros del club deberan llenar esta seccion con sus datos (Nombre - Matricula - Direccion a su cuenta de GitHub).
 
