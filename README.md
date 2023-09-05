@@ -79,8 +79,7 @@ Las siguientes fechas son tentativas y no finales, esto debido a que muchos alum
 > [!NOTE]  
 > Los miembros del club deberan llenar esta seccion con sus datos (Nombre - Matricula - Direccion a su cuenta de GitHub).
 
-<center>
-  <table>
+  <table align="center">
     <theader>
       <tr>
         <th style="text-aling: center;">Matricula</th>
@@ -94,7 +93,6 @@ Las siguientes fechas son tentativas y no finales, esto debido a que muchos alum
     </tr>
     </tbody>
   </table>
-</center>
 
 ### 🔧 Proyectos y Competencias
 
