@@ -79,6 +79,24 @@ Las siguientes fechas son tentativas y no finales, esto debido a que muchos alum
 > [!NOTE]  
 > Los miembros del club deberan llenar esta seccion con sus datos (Nombre - Matricula - Direccion a su cuenta de GitHub).
 
+<table>
+  <theader>
+    <tr>
+      <th style="text-aling: center;">Matricula</th>
+      <th style="text-aling: center;">Nombre</th>
+    </tr>  
+  </theader>
+  <tbody style="text-aling: center">
+  <tr>
+    <td> 338835</td>
+    <td><a href ="https://github.com/Anibal-Valdez">Carlos Anibal Valdez Cordero</a></td>
+  </tr>
+  </tbody>
+
+
+  
+</table>
+
 ### 🔧 Proyectos y Competencias
 
 - **Proyecto 1:** Diseño y programación de un sistema automatizado (enfoque industrial).
